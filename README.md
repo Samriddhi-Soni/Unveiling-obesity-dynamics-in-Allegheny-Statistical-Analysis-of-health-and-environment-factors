@@ -35,11 +35,3 @@ I analyzed connections between obesity diagnosis, limited economic opportunities
 - Tree based clustering
 - Result interpretation/reporting
 
-### R Markdown (Data transformation/predictive modelling/Visualization/Classificatin)
-
-* [Code/RMarkdown](https://github.com/Samriddhi-Soni/Unraveling-Diabetes-Risk-Insights-from-Health-Metrics-and-Demographics/blob/43e2a862191450745430be7ddf2d991bcad9a5fe/Code.Rmd)
-
-### Questions
-
-* If you have any queries or concerns (contact-ss6557@tc.columbia.edu)
-
